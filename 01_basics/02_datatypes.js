@@ -23,5 +23,8 @@ let isLoggedIn = false;
 // object
 console.log(typeof "hite");
 console.log(typeof age);
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined
+
+// interview question
+// what is the different between null and undefined
